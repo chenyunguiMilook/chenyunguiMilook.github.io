@@ -1,0 +1,217 @@
+{
+  "app" : {
+    "bundleId" : "maccatalyst.com.kvchen.solo-english",
+    "name" : "SoloEnglish",
+    "version" : "1.0"
+  },
+  "exportedAt" : "2025-12-15T13:50:38Z",
+  "packageType" : "soloenglish.textbook",
+  "schemaVersion" : 1,
+  "textbook" : {
+    "gradeName" : "少儿英语（示例）",
+    "language" : "zh-Hans",
+    "publisherName" : "内置",
+    "textbookId" : "kids-english-starter",
+    "title" : "Kids English Starter"
+  },
+  "units" : [
+    {
+      "title" : "Unit 1 Hello",
+      "unitIndex" : 1,
+      "words" : [
+        {
+          "meaning" : "你好",
+          "text" : "hello"
+        },
+        {
+          "meaning" : "嗨",
+          "text" : "hi"
+        },
+        {
+          "meaning" : "早上好",
+          "text" : "good morning"
+        },
+        {
+          "meaning" : "下午好",
+          "text" : "good afternoon"
+        },
+        {
+          "meaning" : "晚安",
+          "text" : "good night"
+        },
+        {
+          "meaning" : "再见",
+          "text" : "bye"
+        },
+        {
+          "meaning" : "谢谢",
+          "text" : "thank you"
+        },
+        {
+          "meaning" : "请",
+          "text" : "please"
+        },
+        {
+          "meaning" : "对不起",
+          "text" : "sorry"
+        },
+        {
+          "meaning" : "是\/好",
+          "text" : "yes"
+        },
+        {
+          "meaning" : "不",
+          "text" : "no"
+        },
+        {
+          "meaning" : "我的",
+          "text" : "my"
+        },
+        {
+          "meaning" : "名字",
+          "text" : "name"
+        },
+        {
+          "meaning" : "什么",
+          "text" : "what"
+        },
+        {
+          "meaning" : "朋友",
+          "text" : "friend"
+        }
+      ]
+    },
+    {
+      "title" : "Unit 2 Family",
+      "unitIndex" : 2,
+      "words" : [
+        {
+          "meaning" : "家庭",
+          "text" : "family"
+        },
+        {
+          "meaning" : "爸爸",
+          "text" : "father"
+        },
+        {
+          "meaning" : "妈妈",
+          "text" : "mother"
+        },
+        {
+          "meaning" : "爸爸（口语）",
+          "text" : "dad"
+        },
+        {
+          "meaning" : "妈妈（口语）",
+          "text" : "mom"
+        },
+        {
+          "meaning" : "兄弟",
+          "text" : "brother"
+        },
+        {
+          "meaning" : "姐妹",
+          "text" : "sister"
+        },
+        {
+          "meaning" : "爷爷\/外公",
+          "text" : "grandpa"
+        },
+        {
+          "meaning" : "奶奶\/外婆",
+          "text" : "grandma"
+        },
+        {
+          "meaning" : "宝宝",
+          "text" : "baby"
+        },
+        {
+          "meaning" : "爱",
+          "text" : "love"
+        },
+        {
+          "meaning" : "开心",
+          "text" : "happy"
+        },
+        {
+          "meaning" : "家",
+          "text" : "home"
+        },
+        {
+          "meaning" : "一起",
+          "text" : "together"
+        },
+        {
+          "meaning" : "帮助",
+          "text" : "help"
+        }
+      ]
+    },
+    {
+      "title" : "Unit 3 School",
+      "unitIndex" : 3,
+      "words" : [
+        {
+          "meaning" : "学校",
+          "text" : "school"
+        },
+        {
+          "meaning" : "老师",
+          "text" : "teacher"
+        },
+        {
+          "meaning" : "学生",
+          "text" : "student"
+        },
+        {
+          "meaning" : "班级\/课",
+          "text" : "class"
+        },
+        {
+          "meaning" : "教室",
+          "text" : "classroom"
+        },
+        {
+          "meaning" : "书",
+          "text" : "book"
+        },
+        {
+          "meaning" : "钢笔",
+          "text" : "pen"
+        },
+        {
+          "meaning" : "铅笔",
+          "text" : "pencil"
+        },
+        {
+          "meaning" : "橡皮",
+          "text" : "eraser"
+        },
+        {
+          "meaning" : "书包",
+          "text" : "bag"
+        },
+        {
+          "meaning" : "课桌",
+          "text" : "desk"
+        },
+        {
+          "meaning" : "椅子",
+          "text" : "chair"
+        },
+        {
+          "meaning" : "打开",
+          "text" : "open"
+        },
+        {
+          "meaning" : "关闭",
+          "text" : "close"
+        },
+        {
+          "meaning" : "读",
+          "text" : "read"
+        }
+      ]
+    }
+  ]
+}
