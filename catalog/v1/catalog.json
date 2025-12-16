@@ -18,6 +18,24 @@
       ],
       "textbookId" : "kids-english-starter",
       "title" : "Kids English Starter"
+    },
+    {
+      "language" : "en",
+      "package" : {
+        "contentType" : "application\/json",
+        "fileSizeBytes" : 3709,
+        "minAppBuild" : 1,
+        "packageType" : "soloenglish.textbook",
+        "packageVersion" : 1,
+        "schemaVersion" : 1,
+        "sha256" : "30ac4470a23de75ebc902c459c49e4e9025fadf0c1beb14a76bbc9affcb71158",
+        "url" : "https:\/\/chenyunguiMilook.github.io\/packages\/kids-english-beginner-v2\/v1\/textbook.json"
+      },
+      "tags" : [
+
+      ],
+      "textbookId" : "kids-english-beginner-v2",
+      "title" : "Kids English Beginner"
     }
   ],
   "schemaVersion" : 1

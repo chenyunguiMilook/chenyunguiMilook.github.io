@@ -1,0 +1,103 @@
+{
+  "app": {
+    "bundleId": "maccatalyst.com.kvchen.solo-english",
+    "name": "SoloEnglish",
+    "version": "1.0"
+  },
+  "exportedAt": "2025-12-15T00:00:00Z",
+  "packageType": "soloenglish.textbook",
+  "schemaVersion": 1,
+  "textbook": {
+    "gradeName": "少儿英语（扩展版）",
+    "language": "zh-Hans",
+    "publisherName": "内置",
+    "textbookId": "kids-english-beginner-v2",
+    "title": "Kids English Beginner"
+  },
+  "units": [
+    {
+      "title": "Unit 1 Colors",
+      "unitIndex": 1,
+      "words": [
+        { "meaning": "红色", "text": "red" },
+        { "meaning": "蓝色", "text": "blue" },
+        { "meaning": "黄色", "text": "yellow" },
+        { "meaning": "绿色", "text": "green" },
+        { "meaning": "黑色", "text": "black" },
+        { "meaning": "白色", "text": "white" },
+        { "meaning": "粉色", "text": "pink" },
+        { "meaning": "橙色", "text": "orange" },
+        { "meaning": "紫色", "text": "purple" },
+        { "meaning": "棕色", "text": "brown" },
+        { "meaning": "颜色", "text": "color" },
+        { "meaning": "喜欢", "text": "like" },
+        { "meaning": "漂亮", "text": "beautiful" },
+        { "meaning": "画", "text": "draw" },
+        { "meaning": "看", "text": "look" }
+      ]
+    },
+    {
+      "title": "Unit 2 Animals",
+      "unitIndex": 2,
+      "words": [
+        { "meaning": "动物", "text": "animal" },
+        { "meaning": "狗", "text": "dog" },
+        { "meaning": "猫", "text": "cat" },
+        { "meaning": "鸟", "text": "bird" },
+        { "meaning": "鱼", "text": "fish" },
+        { "meaning": "马", "text": "horse" },
+        { "meaning": "牛", "text": "cow" },
+        { "meaning": "猪", "text": "pig" },
+        { "meaning": "羊", "text": "sheep" },
+        { "meaning": "兔子", "text": "rabbit" },
+        { "meaning": "大", "text": "big" },
+        { "meaning": "小", "text": "small" },
+        { "meaning": "可爱", "text": "cute" },
+        { "meaning": "跑", "text": "run" },
+        { "meaning": "飞", "text": "fly" }
+      ]
+    },
+    {
+      "title": "Unit 3 Numbers",
+      "unitIndex": 3,
+      "words": [
+        { "meaning": "一", "text": "one" },
+        { "meaning": "二", "text": "two" },
+        { "meaning": "三", "text": "three" },
+        { "meaning": "四", "text": "four" },
+        { "meaning": "五", "text": "five" },
+        { "meaning": "六", "text": "six" },
+        { "meaning": "七", "text": "seven" },
+        { "meaning": "八", "text": "eight" },
+        { "meaning": "九", "text": "nine" },
+        { "meaning": "十", "text": "ten" },
+        { "meaning": "数字", "text": "number" },
+        { "meaning": "多少", "text": "how many" },
+        { "meaning": "计数", "text": "count" },
+        { "meaning": "苹果", "text": "apple" },
+        { "meaning": "香蕉", "text": "banana" }
+      ]
+    },
+    {
+      "title": "Unit 4 Food",
+      "unitIndex": 4,
+      "words": [
+        { "meaning": "食物", "text": "food" },
+        { "meaning": "面包", "text": "bread" },
+        { "meaning": "牛奶", "text": "milk" },
+        { "meaning": "水", "text": "water" },
+        { "meaning": "果汁", "text": "juice" },
+        { "meaning": "鸡蛋", "text": "egg" },
+        { "meaning": "米饭", "text": "rice" },
+        { "meaning": "面条", "text": "noodles" },
+        { "meaning": "水果", "text": "fruit" },
+        { "meaning": "蔬菜", "text": "vegetable" },
+        { "meaning": "吃", "text": "eat" },
+        { "meaning": "喝", "text": "drink" },
+        { "meaning": "饿", "text": "hungry" },
+        { "meaning": "渴", "text": "thirsty" },
+        { "meaning": "美味", "text": "yummy" }
+      ]
+    }
+  ]
+}
