@@ -1,0 +1,24 @@
+{
+  "generatedAt" : "2025-12-15T12:00:00Z",
+  "items" : [
+    {
+      "language" : "en",
+      "package" : {
+        "contentType" : "application\/json",
+        "fileSizeBytes" : 4393,
+        "minAppBuild" : 1,
+        "packageType" : "soloenglish.textbook",
+        "packageVersion" : 1,
+        "schemaVersion" : 1,
+        "sha256" : "526de45c2cab70a9ce23ff414092266277f117ff21e422130714011663b4191c",
+        "url" : "\/packages\/kids-english-starter\/v1\/textbook.json"
+      },
+      "tags" : [
+
+      ],
+      "textbookId" : "kids-english-starter",
+      "title" : "Kids English Starter"
+    }
+  ],
+  "schemaVersion" : 1
+}
