@@ -36,6 +36,42 @@
       ],
       "textbookId" : "kids-english-beginner-v2",
       "title" : "Kids English Beginner"
+    },
+    {
+      "language" : "en",
+      "package" : {
+        "contentType" : "application\/json",
+        "fileSizeBytes" : 20797,
+        "minAppBuild" : 1,
+        "packageType" : "soloenglish.textbook",
+        "packageVersion" : 1,
+        "schemaVersion" : 1,
+        "sha256" : "ee3b92bb55fe356eeed3879e16f771e9b876f97798ad55a49fd21829d3dcb5c2",
+        "url" : "https:\/\/chenyunguiMilook.github.io\/packages\/primary-review-v1\/v1\/textbook.json"
+      },
+      "tags" : [
+
+      ],
+      "textbookId" : "primary-review-v1",
+      "title" : "Vocabulary from Primary School"
+    },
+    {
+      "language" : "en",
+      "package" : {
+        "contentType" : "application\/json",
+        "fileSizeBytes" : 20947,
+        "minAppBuild" : 1,
+        "packageType" : "soloenglish.textbook",
+        "packageVersion" : 1,
+        "schemaVersion" : 1,
+        "sha256" : "c10ed5b7f865f3ef92f647592db37adc72741c5bd0b04c0178721722c4b130b0",
+        "url" : "https:\/\/chenyunguiMilook.github.io\/packages\/pep-7a-2024-full-page\/v1\/textbook.json"
+      },
+      "tags" : [
+
+      ],
+      "textbookId" : "pep-7a-2024-full-page",
+      "title" : "初中英语（2024新版）"
     }
   ],
   "schemaVersion" : 1
